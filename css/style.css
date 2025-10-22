@@ -316,12 +316,12 @@ h1, h2, h3, h4, h5, h6 {
 .work-items {
     display: flex;
     height: 100%;
-    width: 500%; /* Adjust based on number of items */
+    width: 400%; /* Adjust based on number of items */
     transition: transform 0.1s ease-out;
 }
 
 .work-item {
-    width: 20%; /* 100% / 5 items */
+    width: 25%; /* 100% / 4 items */
     height: 100%;
     display: flex;
     flex-shrink: 0;
